@@ -1,4 +1,4 @@
-# Practo-Clone
+# Practo-Elastic
 
 ## Overview
 This project is a **Practo-like healthcare management system** that facilitates clinic and doctor management. It utilizes **Spring Boot, MySQL, Elasticsearch, and React (migrating to Next.js)** for seamless performance and efficient search functionality.
